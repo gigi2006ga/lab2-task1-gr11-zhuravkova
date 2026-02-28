@@ -8,4 +8,4 @@ Please, edit README and add some details, as instance **{Журавкова Ан
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Please, import repository and use for repl.it project, which is defined in the assignment "Лабораторная работа №2".
