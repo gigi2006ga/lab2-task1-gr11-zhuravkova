@@ -1,1 +1,8 @@
 run = "gcc -o labrabota2-1 /home/runner/lab2-task1-gr11-zhuravkova/src/main.c && ./labrabota2-1"
+
+[agent]
+expertMode = true
+
+[[ports]]
+localPort = 5904
+externalPort = 80
